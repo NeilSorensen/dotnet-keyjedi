@@ -4,3 +4,4 @@ bin
 _ReSharper*
 *.suo
 packages
+*.ncrunchsolution
